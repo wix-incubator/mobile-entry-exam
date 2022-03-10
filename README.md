@@ -12,7 +12,7 @@ While no previous background is required to complete this task or to apply to th
 1. Make sure you have a [GitHub](https://github.com) account
 2. Go [here](https://github.com/new/import) and import this repository into your account. Make sure to select the **private** option
 3. [Clone](https://github.com/wix-incubator/mobile-students-exam) your new repository to your computer
-4. Make sure you have *Node.js* 10 or higher and *npm* 6 or higher installed
+4. Make sure you have *Node.js* 10 or higher and *npm* 6 or higher installed (Too high versions of Node may be incompatible, recommended version to use is Node v14) 
 5. Install the project dependencies by running `npm install` from the project's directory (using a terminal)
 6. Run the project by running `npm start`
 
